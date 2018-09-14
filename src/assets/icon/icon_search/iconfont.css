@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 808456 */
+  src: url('//at.alicdn.com/t/font_808456_fbzvg9ldszc.eot');
+  src: url('//at.alicdn.com/t/font_808456_fbzvg9ldszc.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_808456_fbzvg9ldszc.woff') format('woff'),
+  url('//at.alicdn.com/t/font_808456_fbzvg9ldszc.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_808456_fbzvg9ldszc.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:1rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*.icon-search:before { content: "\e625"; }*/
+
