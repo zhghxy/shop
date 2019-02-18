@@ -1,30 +1,7 @@
 # shop
 
-> A Vue.js project
+>Web移动端点单程序
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##效果展示
+![页面滑动效果](https://github.com/zhghxy/shop/raw/master/build/shop1.gif "页面滑动效果")
+![点单功能展示](https://github.com/zhghxy/shop/raw/master/build/shop2.gif "页面点单功能")
